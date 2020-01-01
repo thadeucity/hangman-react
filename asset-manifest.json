@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/hangman-react/static/js/main.dea780d3.chunk.js",
+    "main.js.map": "/hangman-react/static/js/main.dea780d3.chunk.js.map",
+    "runtime-main.js": "/hangman-react/static/js/runtime-main.f62c2fa1.js",
+    "runtime-main.js.map": "/hangman-react/static/js/runtime-main.f62c2fa1.js.map",
+    "static/js/2.96455cd5.chunk.js": "/hangman-react/static/js/2.96455cd5.chunk.js",
+    "static/js/2.96455cd5.chunk.js.map": "/hangman-react/static/js/2.96455cd5.chunk.js.map",
+    "index.html": "/hangman-react/index.html",
+    "precache-manifest.285779c8d39c346645020122cf7a9d14.js": "/hangman-react/precache-manifest.285779c8d39c346645020122cf7a9d14.js",
+    "service-worker.js": "/hangman-react/service-worker.js",
+    "static/js/2.96455cd5.chunk.js.LICENSE": "/hangman-react/static/js/2.96455cd5.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f62c2fa1.js",
+    "static/js/2.96455cd5.chunk.js",
+    "static/js/main.dea780d3.chunk.js"
+  ]
+}
