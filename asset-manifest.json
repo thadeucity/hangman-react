@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/hangman-react/static/js/main.05f75027.chunk.js",
-    "main.js.map": "/hangman-react/static/js/main.05f75027.chunk.js.map",
+    "main.js": "/hangman-react/static/js/main.d585829d.chunk.js",
+    "main.js.map": "/hangman-react/static/js/main.d585829d.chunk.js.map",
     "runtime-main.js": "/hangman-react/static/js/runtime-main.f62c2fa1.js",
     "runtime-main.js.map": "/hangman-react/static/js/runtime-main.f62c2fa1.js.map",
     "static/js/2.ebb7e028.chunk.js": "/hangman-react/static/js/2.ebb7e028.chunk.js",
     "static/js/2.ebb7e028.chunk.js.map": "/hangman-react/static/js/2.ebb7e028.chunk.js.map",
     "index.html": "/hangman-react/index.html",
-    "precache-manifest.df2fe908836572754f59fb74121d1263.js": "/hangman-react/precache-manifest.df2fe908836572754f59fb74121d1263.js",
+    "precache-manifest.8935d3339521783fe41b988c4001af09.js": "/hangman-react/precache-manifest.8935d3339521783fe41b988c4001af09.js",
     "service-worker.js": "/hangman-react/service-worker.js",
     "static/js/2.ebb7e028.chunk.js.LICENSE": "/hangman-react/static/js/2.ebb7e028.chunk.js.LICENSE",
     "static/media/down_arrow.svg": "/hangman-react/static/media/down_arrow.aa86276a.svg"
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.f62c2fa1.js",
     "static/js/2.ebb7e028.chunk.js",
-    "static/js/main.05f75027.chunk.js"
+    "static/js/main.d585829d.chunk.js"
   ]
 }
